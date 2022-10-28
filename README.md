@@ -5,7 +5,7 @@
 
 I am a French Back-End flavoured Web Developer 
 
-🌱 I am available for a new apprenticeship.
+🌱 I am available for a new experience.
 
 🎓 I am graduating at [@OpenClassrooms](https://github.com/OpenClassrooms) where I am learning again Back-End development with Symfony and Docker.
 
